@@ -13,7 +13,7 @@ Software Engineer, theology lover, and pottery enthusiast. Additionally, I'm inv
 </p>
 
 <a href="https://github.com/jeancatarina" align="left"><img style="max-width: 100%;height: 540px;border-radius: 45px;margin-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancatarina&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="https://app.daily.dev/jeancatarina"><img src="https://api.daily.dev/devcards/af0631d123a0471596472d80dc58afa4.png?r=xiw" width="400" alt="Jean Catarina's Dev Card"/></a>
+<a href="https://app.daily.dev/jeancatarina"><img src="https://api.daily.dev/devcards/v2/ccHeDTOWBAV7KgPAVOpIS.png?r=2xb&type=default" width="356" alt="Jean Catarina's Dev Card"/></a>
 
 ### Socials
 
